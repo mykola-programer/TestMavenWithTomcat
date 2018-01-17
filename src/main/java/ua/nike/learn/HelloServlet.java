@@ -1,4 +1,4 @@
-package ua.cv.nike.test;
+package ua.nike.learn;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

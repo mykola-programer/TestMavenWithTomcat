@@ -7,12 +7,22 @@
 
   <servlet>
     <servlet-name>HelloServlet</servlet-name>
-    <servlet-class>ua.cv.nike.test.HelloServlet</servlet-class>
+    <servlet-class>ua.nike.learn.HelloServlet</servlet-class>
   </servlet>
 
   <servlet-mapping>
     <servlet-name>HelloServlet</servlet-name>
     <url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Principles_OOP</servlet-name>
+    <servlet-class>ua.nike.learn.Principles_OOP</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Principles_OOP</servlet-name>
+    <url-pattern>/principles_oop</url-pattern>
   </servlet-mapping>
 
 </web-app>
