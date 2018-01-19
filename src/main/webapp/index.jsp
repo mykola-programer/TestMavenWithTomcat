@@ -6,7 +6,7 @@
     <ol>
     <h3>
         <li> <a href="principles_oop">Learning OOP Principles.</a></li>
-        <li> Aspect Oriented Programming Principles</li>
+        <li> <a href="aop_principles">Aspect Oriented Programming Principles.</a></li>
         <li> Understand Oracle Java Coding Standards, In particular Naming Conventions</li>
         <li> Java Core: KEYWORDS</li>
         <li> Java Core: overriding and overloading</li>

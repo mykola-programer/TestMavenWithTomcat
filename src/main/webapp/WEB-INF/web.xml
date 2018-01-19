@@ -6,14 +6,19 @@
   <display-name>Archetype Created Web Application</display-name>
 
   <servlet>
-    <servlet-name>HelloServlet</servlet-name>
-    <servlet-class>ua.nike.learn.HelloServlet</servlet-class>
+     <servlet-name>HelloServlet</servlet-name>
+     <servlet-class>ua.nike.test.HelloServlet</servlet-class>
   </servlet>
 
   <servlet>
-    <servlet-name>Principles_OOP</servlet-name>
-    <servlet-class>ua.nike.learn.Principles_OOP</servlet-class>
-  </servlet>
+     <servlet-name>Principles_OOP</servlet-name>
+     <servlet-class>ua.nike.learn.Principles_OOP</servlet-class>
+   </servlet>
+
+    <servlet>
+        <servlet-name>AOP_Principles</servlet-name>
+        <servlet-class>ua.nike.learn.AOP_Principles</servlet-class>
+    </servlet>
 
   <servlet-mapping>
     <servlet-name>HelloServlet</servlet-name>
@@ -24,5 +29,10 @@
     <servlet-name>Principles_OOP</servlet-name>
     <url-pattern>/principles_oop</url-pattern>
   </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>AOP_Principles</servlet-name>
+        <url-pattern>/aop_principles</url-pattern>
+    </servlet-mapping>
 
 </web-app>

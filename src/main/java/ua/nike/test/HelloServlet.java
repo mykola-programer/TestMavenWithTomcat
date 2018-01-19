@@ -1,4 +1,4 @@
-package ua.nike.learn;
+package ua.nike.test;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
