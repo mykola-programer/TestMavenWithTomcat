@@ -5,8 +5,8 @@
 <h2>I must learn :</h2>
     <ol>
     <h3>
-        <li> <a href="principles_oop">Learning OOP Principles.</a></li>
-        <li> <a href="aop_principles">Aspect Oriented Programming Principles.</a></li>
+        <li> <a href="principles_oop">Learning OOP Principles.(Вивчити принципи ООП)</a></li>
+        <li> <a href="aop_principles">Aspect-Oriented Programming(Аспект-Орієнтоване програмування)</a></li>
         <li> Understand Oracle Java Coding Standards, In particular Naming Conventions</li>
         <li> Java Core: KEYWORDS</li>
         <li> Java Core: overriding and overloading</li>
