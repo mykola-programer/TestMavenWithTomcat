@@ -26,11 +26,12 @@ public class AOP_Principles extends HttpServlet {
                     "</ul>\n" +
                     "</body>\n" +
                     "</html>\n";
-//
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String responseContentType = "text/html;charset=UTF-8";
         response.setContentType(responseContentType);
         response.getWriter().write(http_out_inf);
     }
+
 }

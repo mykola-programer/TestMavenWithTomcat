@@ -8,7 +8,7 @@
         <li> <a href="principles_oop">Learning OOP Principles.(Вивчити принципи ООП)</a></li>
         <li> <a href="aop_principles">Aspect-Oriented Programming(Аспект-Орієнтоване програмування)</a></li>
         <li> Understand Oracle Java Coding Standards, In particular Naming Conventions</li>
-        <li> Java Core: KEYWORDS</li>
+        <li> <a href="http://javaconceptoftheday.com/java-keywords-with-examples" target="_blank">Java Core: KEYWORDS</a></li>
         <li> Java Core: overriding and overloading</li>
         <li> Java Core: data types</li>
         <li> Java Core: class types</li>
