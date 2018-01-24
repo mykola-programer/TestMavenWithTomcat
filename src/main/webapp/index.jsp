@@ -9,7 +9,7 @@
         <li> <a href="aop_principles">Aspect-Oriented Programming(Аспект-Орієнтоване програмування)</a></li>
         <li> Understand Oracle Java Coding Standards, In particular Naming Conventions</li>
         <li> <a href="http://javaconceptoftheday.com/java-keywords-with-examples" target="_blank">Java Core: KEYWORDS</a></li>
-        <li> Java Core: overriding and overloading</li>
+        <li> Java Core: <a href="https://beginnersbook.com/2013/05/method-overloading/"target="_blank">overloading</a> and <a href="https://beginnersbook.com/2014/01/method-overriding-in-java-with-example/"target="_blank">overriding</a></li>
         <li> Java Core: data types</li>
         <li> Java Core: class types</li>
         <li> Java Core: programming constructs</li>
